@@ -1,10 +1,13 @@
 ### SilenceShine 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=SilenceShine&show_icons=true&icon_color=0366d6&text_color=2ea44f&bg_color=ffffff&hide_title=true"  alt=""/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SilenceShine&show_icons=true&count_private=true&icon_color=0366d6&text_color=2ea44f&bg_color=ffffff" alt="Anurag's GitHub stats"/>
 
 #### 
 
-
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
+
+![Visitor Count](https://profile-counter.glitch.me/SilenceShine/count.svg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilenceShine&layout=compact&theme=tokyonight)
 
 ![K3s](https://img.shields.io/badge/-K3s-FFC61C?style=flat-square&logo=k3s&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
