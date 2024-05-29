@@ -1,18 +1,48 @@
 ### SilenceShine 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=SilenceShine&show_icons=true&count_private=true&icon_color=0366d6&text_color=2ea44f&bg_color=ffffff" alt="Anurag's GitHub stats"/>
 
-#### 
+### 👨‍💻 Desktop Environment: 
+<p align="left">
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png" alt=slack width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/atom.png" alt=atom width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/linux.png" alt=linux width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/ubuntu.png" alt=ubuntu width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" alt=windows10 width="60" height="60"/>
+</p>
 
-![](./profile-3d-contrib/profile-south-season-animate.svg)
-
-![Visitor Count](https://profile-counter.glitch.me/SilenceShine/count.svg)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilenceShine&layout=compact&theme=tokyonight)
-
-![K3s](https://img.shields.io/badge/-K3s-FFC61C?style=flat-square&logo=k3s&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![javascript](https://img.shields.io/badge/-javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-![kotlin](https://img.shields.io/badge/-kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+### 🏆 Github Stats:
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SilenceShine&theme=github_dark"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SilenceShine&theme=github"
+  />
+</picture>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SilenceShine&theme=github_dark"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SilenceShine&theme=github"
+  />
+</picture>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SilenceShine&theme=github_dark"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SilenceShine&theme=github"
+  />
+</picture>
+<!-- Copy-paste in your Readme.md file -->
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=126382592" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=126382592&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @SilenceShine" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=126382592&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
