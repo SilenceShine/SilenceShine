@@ -1,13 +1,33 @@
 ### SilenceShine 
 
+<!-- https://skillicons.dev/icons -->
+### 👨‍💻 Skills and Tools: 
+<p align="left">
+  <img style="margin: auto" src="./icon/Java-Dark.svg" alt=slack width="60" height="60">
+  <img style="margin: auto" src="./icon/Kotlin-Dark.svg" alt=slack width="60" height="60">
+  <img style="margin: auto" src="./icon/Rust.svg" alt=slack width="60" height="60">
+  <img style="margin: auto" src="./icon/JavaScript.svg" alt=slack width="60" height="60">
+  <img style="margin: auto" src="./icon/NodeJS-Dark.svg" alt=slack width="60" height="60">
+  <img style="margin: auto" src="./icon/GoLang.svg" alt=slack width="60" height="60">
+  <img style="margin: auto" src="./icon/Spring-Dark.svg" alt=slack width="60" height="60">
+  <img style="margin: auto" src="./icon/MySQL-Dark.svg" alt=slack width="60" height="60">
+  <img style="margin: auto" src="./icon/PostgreSQL-Dark.svg" alt=slack width="60" height="60">
+  <img style="margin: auto" src="./icon/MongoDB.svg" alt=slack width="60" height="60">
+  <img style="margin: auto" src="./icon/Kafka.svg" alt=slack width="60" height="60">
+  <img style="margin: auto" src="./icon/Git.svg" alt=slack width="60" height="60">
+  <img style="margin: auto" src="./icon/Nginx.svg" alt=slack width="60" height="60">
+  <img style="margin: auto" src="./icon/Docker.svg" alt=slack width="60" height="60">
+  <img style="margin: auto" src="./icon/Kubernetes.svg" alt=slack width="60" height="60">
+</p>
+
 ### 👨‍💻 Desktop Environment: 
 <p align="left">
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png" alt=slack width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/atom.png" alt=atom width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/linux.png" alt=linux width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/ubuntu.png" alt=ubuntu width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" alt=windows10 width="60" height="60"/>
+  <img style="margin: auto" src="./icon/Slack.svg" alt=slack width="60" height="60">
+  <img style="margin: auto" src="./icon/Discord.svg" alt=slack width="60" height="60">
+  <img style="margin: auto" src="./icon/Github-Dark.svg" alt=slack width="60" height="60">
+  <img style="margin: auto" src="./icon/Linux-Dark.svg" alt=slack width="60" height="60">
+  <img style="margin: auto" src="./icon/Ubuntu-Dark.svg" alt=slack width="60" height="60">
+  <img style="margin: auto" src="./icon/Windows-Dark.svg" alt=slack width="60" height="60">
 </p>
 
 ### 🏆 Github Stats:
@@ -39,7 +59,7 @@
   />
 </picture>
 <!-- Copy-paste in your Readme.md file -->
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=126382592" target="_blank" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=126382592" target="_blank" style="display: block" align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=126382592&image_size=auto&color_scheme=dark" width="771" height="auto">
     <img alt="Dashboard stats of @SilenceShine" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=126382592&image_size=auto&color_scheme=light" width="771" height="auto">
