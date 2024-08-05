@@ -2,7 +2,7 @@
 
 ### I'm Xuanshao yu
 
-- 🌱 Currently working in Hangzhou, China.
+- 🌱 Currently working in ChengDu, China.
 - ⚡ Fun fact: Webassembly,Serverless 
 
 <!-- https://skillicons.dev/icons -->
